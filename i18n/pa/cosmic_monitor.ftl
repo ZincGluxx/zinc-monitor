@@ -1,5 +1,5 @@
-app-name = COSMIC ਸਿਸਟਮ ਨਿਗਰਾਨ
-comment = COSMIC ਡੈਸਕਟਾਪ ਲਈ ਸਿਸਟਮ ਨਿਗਰਾਨ
+app-name = Zinc ਸਿਸਟਮ ਨਿਗਰਾਨ
+comment = Zinc ਡੈਸਕਟਾਪ ਲਈ ਸਿਸਟਮ ਨਿਗਰਾਨ
 keywords = ਨਿਗਰਾਨ;ਸਿਸਟਮ;ਪ੍ਰੋਸੈਸ;ਪਰੋਸੈਸ;CPU;ਮੈਮੋਰੀ;ਨੈੱਟਵਰਕ;ਅਤੀਤ;ਵਰਤੋਂ;
 see-all-applications = ਸਾਰੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂਨ ਨੂੰ ਵੇਖੋ
 see-all-processes = ਸਾਰੇ ਪਰੋਸੈਸਾਂ ਨੂੰ ਵੇਖੋ

@@ -1,5 +1,5 @@
-app-name = COSMICin järjestelmän valvonta
-comment = Järjestelmän valvonta COSMIC-työpöydälle
+app-name = Zincin järjestelmän valvonta
+comment = Järjestelmän valvonta Zinc-työpöydälle
 keywords = Monitor;System;Process;CPU;Memory;Network;History;Usage;järjestelmä;prosessi;suoritin;muisti;verkko;historia;käyttö;
 see-all-applications = Näytä kaikki sovellukset
 see-all-processes = Näytä kaikki prosessit

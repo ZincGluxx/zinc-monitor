@@ -1,5 +1,5 @@
-app-name = COSMIC-systemovervågning
-comment = Systemovervågning til COSMIC-skrivebordet
+app-name = Zinc-systemovervågning
+comment = Systemovervågning til Zinc-skrivebordet
 keywords = Overvågning;System;Proces;CPU;Hukommelse;Netværk;Historik;Forbrug;
 see-all-applications = Se alle programmer
 see-all-processes = Se alle processer

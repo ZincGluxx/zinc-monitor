@@ -1,5 +1,5 @@
-app-name = COSMIC Systemmonitor
-comment = Systemmonitor für den COSMIC Desktop
+app-name = Zinc Systemmonitor
+comment = Systemmonitor für den Zinc Desktop
 keywords = Monitor;System;Prozess;CPU;Speicher;Netzwerk;Verlauf;Auslastung;
 see-all-applications = Alle Anwendungen ansehen
 see-all-processes = Alle Prozesse ansehen
@@ -59,7 +59,7 @@ quit = Beenden
 quit-title = Prozess beenden?
 quit-body = Möchtest du „{ $name }“ beenden?
 menu-settings = Einstellungen ...
-menu-about = Über COSMIC Monitor ...
+menu-about = Über Zinc Monitor ...
 speed = Geschwindigkeit
 gpu-suspended-description = Die Überwachung ist deaktiviert, solange die GPU inaktiv ist.
 gpu-suspended-title = Inaktiv

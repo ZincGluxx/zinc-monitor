@@ -1,5 +1,5 @@
 app-name = Системный монитор
-comment = Системный монитор для среды COSMIC
+comment = Системный монитор для среды Zinc
 keywords = Монитор;Системный;Процесс;ЦП;Память;Сеть;История;Использование;Диспетчер;Задач;
 see-all-applications = Показать все приложения
 see-all-processes = Показать все процессы
@@ -60,7 +60,7 @@ quit = Завершить
 quit-title = Завершить процесс?
 quit-body = Хотите завершить работу «{ $name }»?
 menu-settings = Параметры...
-menu-about = О Мониторе COSMIC...
+menu-about = О Мониторе Zinc...
 gpu-suspended-title = Приостановлен
 gpu-suspended-description = Мониторинг отключён, пока работа ГП приостановлена.
 power = Питание

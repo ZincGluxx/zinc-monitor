@@ -1,5 +1,5 @@
-app-name = COSMIC Systeemmonitor
-comment = Systeemmonitor voor COSMIC
+app-name = Zinc Systeemmonitor
+comment = Systeemmonitor voor Zinc
 keywords = Systeemmonitor;Systeem;Monitor;Taakbeheer;Proces;Processor;CPU;Geheugen;Werkgeheugen;Netwerk;Geschiedenis;Gebruik;
 see-all-applications = Bekijk alle toepassingen
 see-all-processes = Bekijk alle processen

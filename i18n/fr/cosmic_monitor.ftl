@@ -1,5 +1,5 @@
-app-name = Moniteur système COSMIC
-comment = Moniteur système pour le bureau COSMIC
+app-name = Moniteur système Zinc
+comment = Moniteur système pour le bureau Zinc
 keywords = Surveillance ;Système ;Processus ;Processeur ;Mémoire ;Réseau ;Historique ;Utilisation ;
 see-all-applications = Afficher toutes les applications
 see-all-processes = Afficher tous les processus
@@ -60,7 +60,7 @@ quit = Quitter
 quit-title = Arrêter le processus ?
 quit-body = Voulez-vous mettre fin à « { $name } » ?
 menu-settings = Paramètres...
-menu-about = À propos du Moniteur COSMIC...
+menu-about = À propos du Moniteur Zinc...
 gpu-suspended-title = Suspendu
 gpu-suspended-description = La surveillance est désactivée tant que le GPU est suspendu.
 power = Puissance

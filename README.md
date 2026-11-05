@@ -1,2 +1,2 @@
-# cosmic-monitor
-COSMIC System Monitor
+# zinc-monitor
+Zinc System Monitor

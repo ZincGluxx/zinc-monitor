@@ -1,5 +1,5 @@
-app-name = COSMIC жүйелік бақылаушысы
-comment = COSMIC жұмыс үстеліне арналған жүйе мониторы
+app-name = Zinc жүйелік бақылаушысы
+comment = Zinc жұмыс үстеліне арналған жүйе мониторы
 keywords = Монитор;Жүйе;Процесс;CPU;Жады;Желі;Тарих;Пайдалану;
 see-all-applications = Барлық қолданбаларды көру
 see-all-processes = Барлық процестерді көру
@@ -67,7 +67,7 @@ quit = Шығу
 quit-title = Процесті аяқтау керек пе?
 quit-body = «{ $name }» процесін аяқтауды қалайсыз ба?
 menu-settings = Баптаулар...
-menu-about = COSMIC мониторы туралы...
+menu-about = Zinc мониторы туралы...
 high = Жоғары
 low = Төмен
 normal = Қалыпты

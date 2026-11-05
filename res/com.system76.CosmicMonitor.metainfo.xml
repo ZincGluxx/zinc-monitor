@@ -8,10 +8,10 @@
   <update_contact>jeremy@system76.com</update_contact>
   <url type="homepage">https://github.com/pop-os/cosmic-monitor</url>
   <url type="bugtracker">https://github.com/pop-os/cosmic-monitor</url>
-  <name>COSMIC System Monitor</name>
-  <summary>System monitor for the COSMIC desktop</summary>
+  <name>Zinc System Monitor</name>
+  <summary>System monitor for the Zinc desktop</summary>
   <description>
-    <p>System monitor for the COSMIC desktop</p>
+    <p>System monitor for the Zinc desktop</p>
   </description>
   <keywords>
     <keyword>Monitor</keyword>

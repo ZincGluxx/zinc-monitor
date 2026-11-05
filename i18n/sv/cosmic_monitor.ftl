@@ -1,5 +1,5 @@
-app-name = COSMIC Systemövervakare
-comment = Systemövervakare för skrivbordsmiljön COSMIC
+app-name = Zinc Systemövervakare
+comment = Systemövervakare för skrivbordsmiljön Zinc
 keywords = Övervakare;System;Process;Processor;Minne;Nätverk;Historik;Användning;Monitor;
 see-all-applications = Se alla program
 see-all-processes = Se alla processer
@@ -46,7 +46,7 @@ quit = Avsluta
 quit-title = Avsluta processen?
 quit-body = Vill du avsluta "{ $name }"?
 menu-settings = Inställningar...
-menu-about = Om COSMIC Systemövervakare...
+menu-about = Om Zinc Systemövervakare...
 dashboard = Översikt
 gpu = GPU
 gpu-index = GPU { $index }

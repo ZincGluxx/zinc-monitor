@@ -1,5 +1,5 @@
 app-name = Išvaizda
-comment = Sistemos monitorius COSMIC aplinkai
+comment = Sistemos monitorius Zinc aplinkai
 keywords = Monitorius;Sistema;Procesas;CPU;Atmintis;Tinklas;Istorija;Naudojimas;
 see-all-applications = Peržiūrėti visas aplikacijas
 see-all-processes = Peržiūrėti visus procesus

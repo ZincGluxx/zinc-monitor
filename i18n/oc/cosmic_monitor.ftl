@@ -1,5 +1,5 @@
-app-name = Monitor sistèma COSMIC
-comment = Monitor sistèma pel burèu COSMIC
+app-name = Monitor sistèma Zinc
+comment = Monitor sistèma pel burèu Zinc
 keywords = Monitor;Sistèma;Procèssus;Processús;CPU;Memòria;Ret;Malhum;Istoric;Usatge;Utilizacion;
 see-all-applications = Veire totas las aplicacions
 see-all-processes = Veire totes los procèssus
@@ -56,7 +56,7 @@ cancel = Anullar
 force-quit-app-title = Forçar l’arrèst de « { $name } » ?
 quit-app-title = Arrestar « { $name } » ?
 menu-settings = Configuracion...
-menu-about = A prepaus del Monitor COSMIC...
+menu-about = A prepaus del Monitor Zinc...
 gpu-suspended-description = Lo monitoratge es desactivat quand la GPU es suspenduda.
 no-gpus = Cap de GPU compatible pas detectat.
 force-quit-app-body = Los procèssus seguentas seràn tampats immediatament de fòrça, sens netejatge ni avís.

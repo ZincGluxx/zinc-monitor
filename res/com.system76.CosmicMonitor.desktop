@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=COSMIC System Monitor
-Comment=System monitor for the COSMIC desktop
+Name=Zinc System Monitor
+Comment=System monitor for the Zinc desktop
 Exec=cosmic-monitor
 Terminal=false
 Type=Application

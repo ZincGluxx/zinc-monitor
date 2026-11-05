@@ -1,4 +1,4 @@
-menu-about = O aplikaci Sledování systému COSMIC...
+menu-about = O aplikaci Sledování systému Zinc...
 quit-body = Chcete ukončit proces „{ $name }“?
 quit-title = Ukončit proces?
 quit = Ukončit
@@ -36,8 +36,8 @@ vram = Videopaměť
 all-disks = Všechny disky
 reading = Čtení
 writing = Zápis
-app-name = Sledování systému COSMIC
-comment = Sledování systému pro prostředí COSMIC
+app-name = Sledování systému Zinc
+comment = Sledování systému pro prostředí Zinc
 keywords = Sledovat;Monitorovat;Systém;Správce;Úloha;Proces;CPU;Procesor;GPU;Grafika;RAM;Paměť;Disk;Síť;Historie;Využití;Zdroje;Prostředky;Výkon;
 see-all-applications = Zobrazit všechny aplikace
 see-all-processes = Zobrazit všechny procesy

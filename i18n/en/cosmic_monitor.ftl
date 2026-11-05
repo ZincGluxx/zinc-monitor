@@ -1,5 +1,5 @@
-app-name = COSMIC System Monitor
-comment = System monitor for the COSMIC desktop
+app-name = Zinc System Monitor
+comment = System monitor for the Zinc desktop
 keywords = Monitor;System;Process;CPU;Memory;Network;History;Usage;
 see-all-applications = See all applications
 see-all-processes = See all processes
@@ -108,4 +108,4 @@ quit-body = Do you want to end "{$name}"?
 
 ## View
 menu-settings = Settings...
-menu-about = About COSMIC Monitor...
+menu-about = About Zinc Monitor...

@@ -1,5 +1,5 @@
-app-name = Системний монітор COSMIC
-comment = Системний монітор для COSMIC
+app-name = Системний монітор Zinc
+comment = Системний монітор для Zinc
 keywords = Monitor;System;Process;CPU;Memory;Network;Usage;Монітор;Система;Процес;ЦП;Пам’ять;Мережа;Історія;Використання;
 applications = Застосунки
 processes = Процеси

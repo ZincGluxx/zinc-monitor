@@ -1,5 +1,5 @@
-comment = Monitor sistem untuk desktop COSMIC
-app-name = Monitor Sistem COSMIC
+comment = Monitor sistem untuk desktop Zinc
+app-name = Monitor Sistem Zinc
 keywords = Monitor;Sistem;Proses;CPU;Memori;Jaringan;Riwayat;Penggunaan;
 see-all-applications = Lihat semua aplikasi
 see-all-processes = Lihat semua proses
@@ -53,7 +53,7 @@ match-desktop = Cocok desktop
 dark = Gelap
 light = Terang
 cancel = Batalkan
-menu-about = Tentang Monitor COSMIC...
+menu-about = Tentang Monitor Zinc...
 menu-settings = Pengaturan...
 quit-body = Apakah Anda ingin mengakhiri "{ $name }"?
 quit-title = Keluar proses?

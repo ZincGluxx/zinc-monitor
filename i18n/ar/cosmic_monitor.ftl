@@ -1,5 +1,5 @@
-app-name = مرقاب نظام COSMIC
-comment = مرقاب نظام لسطح مكتب COSMIC
+app-name = مرقاب نظام Zinc
+comment = مرقاب نظام لسطح مكتب Zinc
 keywords = المراقبة;النظام;العملية;معالج;الذاكرة;الشبكة;السجل;الاستخدام;
 see-all-applications = اعرض كل التطبيقات
 see-all-processes = اعرض كل العمليات

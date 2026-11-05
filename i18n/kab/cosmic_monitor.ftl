@@ -1,5 +1,5 @@
-app-name = Amsefrak n unagraw COSMIC
-comment = Amsefrak n unagraw i tnarit COSMIC
+app-name = Amsefrak n unagraw Zinc
+comment = Amsefrak n unagraw i tnarit Zinc
 keywords = Amsefrak;Anagraw;Akala;CPU;Takatut;Aẓeṭṭa;Azray;Aseqdec;
 see-all-applications = Wali akk isnasen
 see-all-processes = Wali akk ikalan

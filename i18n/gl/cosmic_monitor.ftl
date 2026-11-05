@@ -1,5 +1,5 @@
-app-name = Vixilante do Sistema de COSMIC
-comment = Vixilante do sistema para o escritorio COSMIC
+app-name = Vixilante do Sistema de Zinc
+comment = Vixilante do sistema para o escritorio Zinc
 keywords = Monitor; Sistema; Proceso; CPU; Memoria; Rede; Historial; Uso;
 see-all-applications = Ver todas as aplicacións
 see-all-processes = Ver todos os procesos

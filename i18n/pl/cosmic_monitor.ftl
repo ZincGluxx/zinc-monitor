@@ -1,5 +1,5 @@
-app-name = Monitor Systemu COSMIC
-comment = Monitor Systemu dla środowiska COSMIC
+app-name = Monitor Systemu Zinc
+comment = Monitor Systemu dla środowiska Zinc
 keywords = Monitor;Systemu;Procesy;CPU;Memory;Pamięć;Network;Sieć;Historia;Użycie;
 see-all-applications = Zobacz wszystkie aplikacje
 see-all-processes = Zobacz wszystkie procesy
@@ -29,7 +29,7 @@ writing = Zapis
 all-networks = Wszystkie sieci
 receiving = Odebrane
 sending = Wysłane
-menu-about = O Monitorze COSMIC…
+menu-about = O Monitorze Zinc…
 dashboard = Panel
 processes = Procesy
 details = Szczegóły

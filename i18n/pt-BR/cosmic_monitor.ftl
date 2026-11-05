@@ -1,5 +1,5 @@
 app-name = Monitor do Sistema
-comment = Monitor de sistema do ambiente COSMIC
+comment = Monitor de sistema do ambiente Zinc
 keywords = Monitor;Sistema;Processo;CPU;Memória;Rede;Histórico;Uso;
 see-all-applications = Ver todos os aplicativos
 see-all-processes = Ver todos os processos

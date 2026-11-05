@@ -1,5 +1,5 @@
-app-name = COSMIC 系統監視器
-comment = COSMIC 桌面的系統監視器
+app-name = Zinc 系統監視器
+comment = Zinc 桌面的系統監視器
 keywords = Monitor;System;Process;CPU;Memory;Network;History;Usage;監控;系統;程序;CPU;記憶體;網路;歷史紀錄;使用狀況;
 see-all-applications = 查看所有應用程式
 see-all-processes = 查看所有程序
@@ -60,7 +60,7 @@ quit-body = 您要結束「{ $name }」嗎？
 cancel = 取消
 force-quit = 強制結束
 menu-settings = 設定...
-menu-about = 關於 COSMIC 系統監視器…
+menu-about = 關於 Zinc 系統監視器…
 gpu-suspended-title = 休眠
 power = 功率
 gpu-suspended-description = 當 GPU 處於休眠狀態時，監視功能將會停用。

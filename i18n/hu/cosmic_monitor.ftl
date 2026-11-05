@@ -1,5 +1,5 @@
-comment = Rendszerfigyelő a COSMIC asztali környezethez
-app-name = COSMIC Rendszerfigyelő
+comment = Rendszerfigyelő a Zinc asztali környezethez
+app-name = Zinc Rendszerfigyelő
 keywords = Figyelő;Rendszer;Folyamat;CPU;Memória;Hálózat;Előzmények;Használat;
 see-all-applications = Összes alkalmazás megjelenítése
 see-all-processes = Összes folyamat megjelenítése
@@ -59,7 +59,7 @@ quit = Leállítás
 quit-title = Leállítod a folyamatot?
 quit-body = Le akarod állítani a(z) „{ $name }” folyamatot?
 menu-settings = Beállítások…
-menu-about = A COSMIC Rendszerfigyelő névjegye…
+menu-about = A Zinc Rendszerfigyelő névjegye…
 app = { "" }
 gpu-suspended-title = Felfüggesztve
 gpu-suspended-description = A figyelés le van tiltva, amíg a GPU fel van függesztve.

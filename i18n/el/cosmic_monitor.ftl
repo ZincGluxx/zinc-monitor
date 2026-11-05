@@ -1,5 +1,5 @@
-app-name = Εποπτεία συστήματος COSMIC
-comment = Πρόγραμμα εποπτείας συστήματος για το περιβάλλον επιφάνειας εργασίας COSMIC
+app-name = Εποπτεία συστήματος Zinc
+comment = Πρόγραμμα εποπτείας συστήματος για το περιβάλλον επιφάνειας εργασίας Zinc
 keywords = Εποπτεία;Παρακολούθηση;Σύστημα;Διεργασία;Μνήμη;Δίκτυο;Ιστορικό;Χρήση;Πόροι;Monitor;System;Process;CPU;Memory;Network;History;Usage;
 see-all-applications = Προβολή όλων των εφαρμογών
 see-all-processes = Προβολή όλων των διεργασιών
@@ -53,7 +53,7 @@ overall-utilization = Συνολική αξιοποίηση
 utilization-per-core = Αξιοποίηση ανά πυρήνα
 total-utilization = Συνολική αξιοποίηση
 gpu-utilization = Αξιοποίηση GPU
-menu-about = Σχετικά με την Εποπτεία COSMIC...
+menu-about = Σχετικά με την Εποπτεία Zinc...
 all-disks = Όλοι οι δίσκοι
 mount-path = Διαδρομή προσάρτησης
 all-networks = Όλα τα δίκτυα
